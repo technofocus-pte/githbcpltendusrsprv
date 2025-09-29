@@ -1,2 +1,2 @@
 # devsecopsgithbcpltprv
-Implementing DevSecOps with Github and Github Copilot
+Github and Github Copilot for End Users
